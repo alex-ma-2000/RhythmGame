@@ -16,3 +16,4 @@ v0.1.2
 - Fixed restart button
 - Fixed pausing screen
 - Fixed softlock with pause screen -> main menu -> song
+- Changed screen resolution
