@@ -37,7 +37,7 @@ public class SongInformation : MonoBehaviour
     // Song text File
     public TextAsset song;
 
-    void Start()
+    void Awake()
     {
         conductor = this.GetComponentInParent<Conductor>();
 
