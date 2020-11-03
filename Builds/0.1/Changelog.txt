@@ -1,0 +1,18 @@
+v0.1
+- Initial build.
+- Normal and hold notes
+- Main menu logic
+- Score calculation v1
+- Hit determination
+- UI scaling for devices
+- Basic pausing
+- 1 playable track
+- Conductor Class that manages song 
+
+v0.1.1
+- Improved score calculation to be more fair
+
+v0.1.2
+- Fixed restart button
+- Fixed pausing screen
+- Fixed softlock with pause screen -> main menu -> song

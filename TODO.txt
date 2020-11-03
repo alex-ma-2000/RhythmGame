@@ -1,0 +1,17 @@
+New Modes:
+Verticle Mode 1
+
+GRAPHICS:
+Audio Visualization (Background?)
+Notes
+BeatLine
+Buttons
+Fonts
+
+For v0.2
+- Fix hold notes to be symmetrically hittable
+- Turn Notes using gyroscope
+- Song restarting
+- Fix softlock when game is paused and you return to main menu and then return to game
+- Song Information in Song Select
+- EXTRA: Different color particle effects depending on note accuracy.
