@@ -79,6 +79,7 @@ public class Conductor : MonoBehaviour
         // Record the time when the music starts
         dspSongTime = (float)AudioSettings.dspTime;
 
+        AudioListener.pause = false;
         musicSource.PlayDelayed(countdown);
 
         numberofMultipliers = ((int)Mathf.Floor(maxCombo / 25f)) + 1;
